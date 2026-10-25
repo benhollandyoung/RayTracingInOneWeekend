@@ -1,0 +1,2 @@
+add_executable(rt main.cpp basic-ppm-generators/random-ppm.cpp basic-ppm-generators/default-ppm.cpp basic-ppm-generators/text-generator-ppm.cpp)
+target_include_directories(rt PUBLIC ${CMAKE_SOURCE_DIR}/include)

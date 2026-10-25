@@ -1,0 +1,1 @@
+int defaultPPM(int width, int height);

@@ -1,0 +1,1 @@
+int textGenerator(int width, int height, char letter);
